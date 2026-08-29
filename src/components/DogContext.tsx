@@ -1,6 +1,6 @@
 import { createContext, useEffect, useState } from "react";
 
-const OPEN_DOG_REGISTRY = "https://registry.dog/api/v1";
+const OPEN_DOG_REGISTRY = "https://v1-3k26ucvzka-uc.a.run.app";
 
 export interface DogContextType {
   dogs: DogType[];
